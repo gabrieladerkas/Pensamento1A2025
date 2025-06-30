@@ -1,8 +1,12 @@
 body {
-color: red;
+color: white;
 background: black;
+margin: 0px;
 }
 
 header {
-border: solid 1px red;
+border-bottom: solid 1px red;
+padding: 20px;
+font-size: 32px;
+color: red;
 }

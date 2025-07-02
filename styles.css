@@ -1,6 +1,6 @@
 body {
 color: white;
-background: black;
+background: gray;
 margin: 0px;
 }
 
@@ -12,5 +12,13 @@ color: red;
 }
 
 section {
-background: red;
+background: pink
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 5%;
 }
